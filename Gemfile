@@ -4,6 +4,7 @@ gem "nifty-generators", :group => :development
 
 gem "devise"
 
+gem 'bootstrap-sass', '~> 3.3.1'
 gem 'bootstrap_form'
 # Bootstrap form to use to format form layouts
 
@@ -43,4 +44,3 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
